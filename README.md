@@ -1,4 +1,4 @@
-# four_color_theorem
+# The Four Color Theorm
 
 This repository has two present files (certificates) that were missing in the RSST repository. 
 Together with the other present files from RSST, it forms a complete certificates for the 
